@@ -1,5 +1,5 @@
 function author(){
-    alert("作者：湖南大学土木工程学院戴浚文");
+    alert("作者：湖南大学土木工程学院的一名学生");
 }
 
 function help(){
